@@ -85,7 +85,7 @@ function App() {
           </div>
         </div>
       </section>
-      <section className="py-2">
+      <section className="py-3">
         <div className="container">
           <div className="flex">
             <div className="shadow-lg rounded-lg flex flex-col col-12 col-sm-10 col-md-8 col-lg-6 m-auto p-2">
